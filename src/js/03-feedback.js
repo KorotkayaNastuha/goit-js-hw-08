@@ -22,3 +22,4 @@ function populateTextarea() {
     messageRef.value = currentData.message;
 }
 };
+populateTextarea();
